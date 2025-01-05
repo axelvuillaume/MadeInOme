@@ -16,10 +16,9 @@ school project for a fully functional e-commerce platform, designed to provide a
  - Deployment: Hosted on Render
 
 🎯 Objective:
- - This project was developed as part of a school curriculum to explore key web development concepts, including:
+This project was developed as part of a school curriculum to explore key web development concepts, including:
 
-Creating intuitive user interfaces.
-Integrating a secure and efficient backend.
-Managing data in a collaborative environment.
-📄 Notes:
-This project can be extended or adapted to other educational or professional contexts. Feel free to explore, fork, or contribute!
+ - Creating intuitive user interfaces.
+ - Integrating a secure and efficient backend.
+ - Managing data in a collaborative environment.
+
