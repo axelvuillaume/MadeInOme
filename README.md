@@ -1,5 +1,5 @@
 # MadeInOme
-school project for a fully functional e-commerce platform, designed to provide an intuitive and efficient experience for users looking to buy or sell products online.
+school project for a fully functional e-commerce platform, designed to provide an intuitive and efficient experience for users looking to buy or sell products online. ( In JavaScript )
 
 
 🛠️ Key Features:
@@ -10,9 +10,9 @@ school project for a fully functional e-commerce platform, designed to provide a
  - Optimized User Experience: Modern design and ergonomics focused on usability.
 
 🚀 Technologies Used:
- - Frontend: HTML, CSS, JavaScript (framework used if applicable).
- - Backend: Node.js/Express (or other backend technology if different).
- - Database: MongoDB (or other database if relevant) for data handling.
+ - Frontend: HTML, CSS, JavaScript.
+ - Backend: Node.js/Express.
+ - Database: MongoDB for data handling.
  - Deployment: Hosted on Render
 
 🎯 Objective:
